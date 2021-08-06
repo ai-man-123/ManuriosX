@@ -26,8 +26,8 @@ ___
 
 ### [`👇  INTRO MY SELF`](https://fxc7-api.herokuapp.com)
 ```
-Intro = 
-{
+Intro =
+
 "Name": "-",
 "Status": "Graduates SMKN 3 Banjarmasin",
 "Address": "Banjarmasin, Kalimantan Selatan, Indonesia",
@@ -38,7 +38,6 @@ Intro =
    "- 7Coders Team (Fxc7 Team)"
    "- ΛNU Team"
    "- And My Friends"
-}
 ```
 ___
 
@@ -63,7 +62,7 @@ ___
 
 ### [` 📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=50766866666&text=Hai+Bang)
 
-### [` 📫 Or `](https://api.whatsapp.com/send?phone=6283141926935&text=Hai+Bang)
+### [` 📫 My Secound Contact`](https://api.whatsapp.com/send?phone=6283141926935&text=Hai+Bang)
 
 <p align="center">
 <a href="https://www.instagram.com/manuuuriosss_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
