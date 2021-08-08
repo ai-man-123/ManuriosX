@@ -63,7 +63,7 @@ ___
 
 ### [` 📫 Secound Contact`](https://api.whatsapp.com/send?phone=6283141926935&text=Hai+Bang)
 
-### [`📬 Website `](https://github.com/ManuriosX.github.io)
+### [`📬 Website `](https://ManuriosX.github.io)
     
 <p align="center">
 <a href="https://www.instagram.com/manuuuriosss_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
