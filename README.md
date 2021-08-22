@@ -23,7 +23,7 @@ ___
 ```
 ___
 
-### [`👇  INTRO MY SELF`](https://fxc7-api.herokuapp.com)
+### [`👇  INTRO MY SELF`](https://instagram.com/manuuuriosss_)
 ```
 "Name": "-",
 "Status": "Graduates SMKN 3 Banjarmasin",
@@ -39,6 +39,8 @@ ___
   "- And My Friends"
 ```
 ___
+
+## [`Api For You Bot Whatsapp`](https://fxc-api.herokuapp.com)
 
    
    <p align="center">
