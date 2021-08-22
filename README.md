@@ -39,9 +39,6 @@ ___
   "- And My Friends"
 ```
 ___
-
-## [`Api For You Bot Whatsapp`](https://fxc-api.herokuapp.com)
-
    
    <p align="center">
   <a href="https://github.com/ManuriosX"><img src="https://github-readme-stats.vercel.app/api?username=ManuriosX&theme=tokyonight&show_icons=true" /></a>
@@ -62,10 +59,10 @@ ___
     ___
 
 ### [` 📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=50766866666&text=Hai+Bang)
-
 ### [` 📫 Secound Contact`](https://api.whatsapp.com/send?phone=6283141926935&text=Hai+Bang)
-
 ### [`📬 Website `](https://ManuriosX.github.io)
+## [`Api For You Bot Whatsapp`](https://fxc7-api.herokuapp.com)
+
     
 <p align="center">
 <a href="https://www.instagram.com/manuuuriosss_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
