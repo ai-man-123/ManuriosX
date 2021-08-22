@@ -25,18 +25,18 @@ ___
 
 ### [`👇  INTRO MY SELF`](https://fxc7-api.herokuapp.com)
 ```
-Intro =
-
 "Name": "-",
 "Status": "Graduates SMKN 3 Banjarmasin",
 "Address": "Banjarmasin, Kalimantan Selatan, Indonesia",
 "Age": "19 Years Old",
 "Birthday": "March - 15, 2002"
    
-  "Big Thanks To My Team"
-   "- 7Coders Team (Fxc7 Team)"
-   "- ΛNU Team"
-   "- And My Friends"
+"Big Thanks To"
+
+  "- Allah S.W.T
+  "- 7Coders Team (Fxc7 Team)"
+  "- ΛNU Team"
+  "- And My Friends"
 ```
 ___
 
