@@ -59,7 +59,7 @@ ___
     ___
 
 ### [` 📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=50766866666&text=Hai+Bang)
-### [` 📫 Secound Contact`](https://api.whatsapp.com/send?phone=6283141926935&text=Hai+Bang)
+### [` 📫 Secound Contact`](https://api.whatsapp.com/send?phone=50064113&text=Hai+Bang)
 ### [`📬 Website `](https://ManuriosX.github.io)
 ## [`Api For You Bot Whatsapp`](https://fxc7-api.herokuapp.com)
 
