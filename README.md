@@ -30,7 +30,7 @@ ___
 ```
 ___
 
-### [`👇  INTRO MY SELF`](https://instagram.com/manuuuriosss_)
+### [`👇  INTRO MY SELF`](https://instagram.com/manuriosxnl_)
 ```
 "Name": "-",
 "Status": "Graduates SMKN 3 Banjarmasin",
