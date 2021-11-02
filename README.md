@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=circle&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=circle&logo=Node.js" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=circle&logo=html5&logoColor=e34f26" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=circle&logo=css3&logoColor=1572b6" />
+  <img src="https://img.shields.io/badge/-Git-black?style=circle&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=circle&logo=github" /> <br>
 </p>
 
 ___
@@ -71,8 +71,8 @@ ___
 
     
 <p align="center">
-<a href="https://www.instagram.com/manuriosxnl_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="manuriosxnl@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.instagram.com/manuriosxnl_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=circle&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="manuriosxnl@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=circle&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://api.whatsapp.com/send?phone=50766866666&text=Hi" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=circle&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
