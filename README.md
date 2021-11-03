@@ -1,9 +1,13 @@
+<h1 align="center"><img srcif" width="40px" alt="hi"><br></h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=circle&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=circle&logo=Node.js" />
   <img src="https://img.shields.io/badge/-HTML5-black?style=circle&logo=html5&logoColor=e34f26" />
   <img src="https://img.shields.io/badge/-CSS3-black?style=circle&logo=css3&logoColor=1572b6" />
   <img src="https://img.shields.io/badge/-Git-black?style=circle&logo=git" />
+  <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
+  <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
   <img src="https://img.shields.io/badge/-GitHub-black?style=circle&logo=github" /> <br>
 </p>
 
@@ -65,7 +69,7 @@ ___
     
 ___
 
-### [` 📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=50766866666&text=Hai+Bang)
+### [` 📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=50766866666&text=Hi)
 ### [`📬 Website `](https://ManuriosX.github.io)
 ### [`📬 Rest Api's`](https://api-xcoders.xyz/)
 
