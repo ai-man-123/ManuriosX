@@ -64,15 +64,12 @@ ___
 </p>
   
 <p align="center">
-  <a href="https://github.com/ManuriosX"><img src="https://github-profile-trophy.vercel.app/?username=ManuriosX&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/ManuriosX"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
     
 ___
 
 ### [` 📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=50766866666&text=Hi)
-### [`📬 Website `](https://ManuriosX.github.io)
-### [`📬 Rest Api's`](https://api-xcoders.xyz/)
-
     
 <p align="center">
 <a href="https://www.instagram.com/manuriosxnl_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=circle&logo=instagram&logoColor=white" alt="Instagram"></a>
