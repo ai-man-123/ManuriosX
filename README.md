@@ -18,7 +18,7 @@
 ___
 
 <p align="center">
-<a target="_blank" href="https://api-xcoders.xyz/"><img alt="FXC7 TEAM" src="https://img.shields.io/badge/FXC7%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+<a target="_blank" href="https://api-xcoders.xyz/"><img alt="FXC7 TEAM" src="https://img.shields.io/badge/FXC7 TEAM%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 </p>
 
 
