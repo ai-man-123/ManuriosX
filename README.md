@@ -60,7 +60,7 @@ ___
 </p>
 
 <p align="center">
-  <a href="https://github.com/ManuriosX"><img src="https://github-readme-streak-stats.herokuapp.com?user=ManuriosX&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/ManuriosX"><img src="https://github-readme-streak-stats.herokuapp.com?user=ruanyf&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
   
 <p align="center">
