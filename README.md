@@ -49,9 +49,9 @@ ___
 "Big Thanks To"
 
   "- Allah S.W.T
-  "- 7Coders Team (Fxc7 Team)"
-  "- ΛNU Team"
-  "- And My Friends"
+  "- ×͜× Aiman 亗ᴮᵒᵗ"
+  "- Aiman "
+  "- Aiman *͘⁴̅⁰͍⁴̵〆*"
 ```
 ___
    
