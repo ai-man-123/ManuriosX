@@ -40,11 +40,11 @@ ___
 
 ### [`MY SELF`](https://instagram.com/manuriosxnl_)
 ```
-"Name": "-",
-"Status": "Graduates SMKN 3 Banjarmasin",
-"Address": "Banjarmasin, Kalimantan Selatan, Indonesia",
-"Age": "19 Years Old",
-"Birthday": "March - 15, 2002"
+"Name": "Aiman",
+"Status": "",
+"Address": "Malaysia",
+"Age": "14 Years Old",
+"Birthday": "June - 4, 2007"
    
 "Big Thanks To"
 
@@ -56,11 +56,11 @@ ___
 ___
    
    <p align="center">
-  <a href="https://github.com/ManuriosX"><img src="https://github-readme-stats.vercel.app/api?username=ManuriosX&theme=tokyonight&show_icons=true" /></a>
+  <a href="https://github.com/ai-man-123"><img src="https://github-readme-stats.vercel.app/api?username=ManuriosX&theme=tokyonight&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ManuriosX"><img src="https://github-readme-streak-stats.herokuapp.com?user=ruanyf&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/ai-man-123"><img src="https://github-readme-streak-stats.herokuapp.com?user=ruanyf&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
   
 <p align="center">
@@ -68,7 +68,7 @@ ___
 </p>
   
 <p align="center">
-  <a href="https://github.com/ManuriosX"><img src="https://github-profile-trophy.vercel.app/?username=ruanyf&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/ai-man-123"><img src="https://github-profile-trophy.vercel.app/?username=ruanyf&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
     
 ___
@@ -76,9 +76,9 @@ ___
 
     
 <p align="center">
-<a href="https://www.instagram.com/manuriosxnl_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=circle&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="manuriosxnl@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=circle&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://api.whatsapp.com/send?phone=50766866666&text=Hi" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=circle&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=circle&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="aimanmk1234@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=circle&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://api.whatsapp.com/send?phone=60102810046&text=Hi" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=circle&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ___
